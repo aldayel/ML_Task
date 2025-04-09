@@ -5,7 +5,7 @@ Classification, EDA and hyperparameter tuning.
 
 # Task 1: 🍄 Mushroom Classification
 
-A machine learning project to classify mushrooms as edible or poisonous based on their physical characteristics.
+A machine learning project to classify mushrooms as edible or poisonous based on their physical characteristics
 
 ---
 
