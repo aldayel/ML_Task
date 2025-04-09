@@ -25,7 +25,7 @@ The dataset used is the Mushroom Dataset from the UCI Machine Learning Repositor
 
 - Habitat and population  
 
-- ...and more
+- ... and more
 
 Target variable:
 
