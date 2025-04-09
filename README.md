@@ -11,7 +11,7 @@ A machine learning project to classify mushrooms as edible or poisonous based on
 
 ## 📌 Introduction
 
-This project aims to build a classification model that can accurately identify whether a mushroom is edible or poisonous using a set of categorical features describing its appearance.
+This project aims to build a classification model that accurately identifies whether a mushroom is edible or poisonous using a set of categorical features describing its appearance.
 
 The dataset used is the Mushroom Dataset from the UCI Machine Learning Repository. It includes 22 categorical features for over 8,000 mushroom samples, such as:
 
